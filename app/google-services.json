@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341342319659",
+    "firebase_url": "https://takehomeassignment09-katieb.firebaseio.com",
+    "project_id": "takehomeassignment09-katieb",
+    "storage_bucket": "takehomeassignment09-katieb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341342319659:android:1da23c34da51a7ca",
+        "android_client_info": {
+          "package_name": "com.example.android.takehomeassignment09_katieb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341342319659-9ibcjco23he2mnntek89v00iimeba63v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnaZc-v5kRwrJYxy_t04SeB8MLb6YjxZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
